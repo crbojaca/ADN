@@ -1,0 +1,41 @@
+﻿Sector,ValorSector,Blanco,ValorBlanco,BlancoPorc,Empresa,Producto,IngrActivo,PorcPart,ValorPart
+Flores,100000,Botrytis,27000,27,Syngenta,Switch,Fludioxonil + Cyprodinil,22,5940
+Flores,100000,Botrytis,27000,27,Basf,Elmus,Fluxapyroxad + Pyraclostrobin,12,3240
+Flores,100000,Botrytis,27000,27,Syngenta,Picatina flora,Adepydin + Fludioxonil,13,3510
+Flores,100000,Botrytis,27000,27,Arysta,Carbovax,Carboxin + Thiram,10,2700
+Flores,100000,Botrytis,27000,27,Bayer,Teldor,Fenhexamid + Tebuconazole,6,1620
+Flores,100000,Botrytis,27000,27,BASF,Lonselor,Fluxapyroxal,6,1620
+Flores,100000,Botrytis,27000,27,Bayer,Rhapsody,Bacillus subtilis,10,2700
+Flores,100000,Botrytis,27000,27,ADN,ADNGard,Extractos vegetales,1,270
+Flores,100000,Botrytis,27000,27,ADN,ADNBot,Extractos vegetales,1,270
+Flores,100000,Botrytis,27000,27,Otros,Otros,Otros,19,5130
+Flores,100000,Ácaros,23000,23,Bichópolis,Phytoseiulus persimilis,Phytoseiulus persimilis,20,4600
+Flores,100000,Ácaros,23000,23,ADN,ADNmite-milbe-EGG,Extractos vegetales,12,2760
+Flores,100000,Ácaros,23000,23,UPL,Starmite,Cienopirafen,19,4370
+Flores,100000,Ácaros,23000,23,UPL,Kanemite,Acequinocyl,11,2530
+Flores,100000,Ácaros,23000,23,Summit Agro,Danisaraba,Cyflumetofen,11,2530
+Flores,100000,Ácaros,23000,23,Syngenta,Vertimec,Abamectina,10,2300
+Flores,100000,Ácaros,23000,23,UPL,Floramite,Bifenazate,6,1380
+Flores,100000,Ácaros,23000,23,Otros,Otros,Otros,11,2530
+Flores,100000,Thrips,15000,15,BASF,SunFire,Clorfenapir,10,1500
+Flores,100000,Thrips,15000,15,Syngenta,Engeo,Thiamethoxam,9,1350
+Flores,100000,Thrips,15000,15,Bayer,Cazador,Fipronil,8,1200
+Flores,100000,Thrips,15000,15,Helm,Bingo,Acetamiprid,7,1050
+Flores,100000,Thrips,15000,15,Ibicol,Neemazal,Azadirachtina,6,900
+Flores,100000,Thrips,15000,15,Corteva,Tracer,Spinosad,9,1350
+Flores,100000,Thrips,15000,15,ADN,ADNGREEN-TRI3,Extractos vegetales,18,2700
+Flores,100000,Thrips,15000,15,Otros,Otros,Otros,33,4950
+Flores,100000,Mildeo polvoso,13000,13,Syngenta,Sunjet,Isopyrazam,17,2210
+Flores,100000,Mildeo polvoso,13000,13,Adama,Nimrod,Bupirimate,16,2080
+Flores,100000,Mildeo polvoso,13000,13,BASF,Meltafun,Dodemorph acetato,9,1170
+Flores,100000,Mildeo polvoso,13000,13,Syngenta,Solvit,Penconazole + Fenpropidin,8,1040
+Flores,100000,Mildeo polvoso,13000,13,Adama,Azimut,Azoxystrobin + Tebuconazole,8,1040
+Flores,100000,Mildeo polvoso,13000,13,ADN,ADNfun,Extractos vegetales,2,260
+Flores,100000,Mildeo polvoso,13000,13,Otros,Otros,Otros,40,5200
+Flores,100000,Mildeo velloso,10000,10,Bayer,Infinito,Fluopicolide + Propamocarb,18,1800
+Flores,100000,Mildeo velloso,10000,10,Syngenta,Revus,Mandipropamida,14,1400
+Flores,100000,Mildeo velloso,10000,10,Summit Agro,Ranman,Ciazofamida,14,1400
+Flores,100000,Mildeo velloso,10000,10,Gowan,Consento,Propamocarb + Fenamidona,14,1400
+Flores,100000,Mildeo velloso,10000,10,Syngenta,Plentrix,Azoxystrobin + Mefenoxam,8,800
+Flores,100000,Mildeo velloso,10000,10,Otros,Otros,Otros,32,3200
+Flores,100000,Otros,12000,12,Otros,Otros,Otros,100,12000
